@@ -1,4 +1,4 @@
-![Image_Tech_Job_Software_Developer_LandingPage](https://user-images.githubusercontent.com/109097651/179457114-d90644de-322e-4ea0-ba20-84ef86140303.jpg)
+![cover](https://user-images.githubusercontent.com/109097651/179458419-6c567462-ac07-4859-997d-68b1036b9f3d.png)
 
 
 <h1 align="center">Hi 👋, I'm Mahalakshmi</h1>
