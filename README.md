@@ -1,11 +1,21 @@
+
 ![Group 1](https://user-images.githubusercontent.com/109097651/179732878-33f4d8e1-9b56-44b5-aca2-b1b236c58947.png)
 
+<br/>
+
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=28&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer;I'm+a+UI+/+UX+Designer" /></a>
+</p>
 
 <h3> Hi, I'm Maha from India. I do content on Design and Development. I really enjoy wireframing, UI, UX and design in general.</h3> 
 
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
+⚡️ My Portfolio Website : http://www.mahaul.site  🧐 
 
-<h3 align="left">Languages and Tools:</h3>
+<br/>
+
+## Languages and Tools:
 
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -15,6 +25,16 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
+<br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahauf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
 
