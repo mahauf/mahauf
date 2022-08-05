@@ -14,7 +14,7 @@
 
 * 🧐  See my portfolio at [mahaul.site](http://www.mahaul.site)
 * ✉️  You can contact me at [maha.rs@outlook.com](mailto:maha.rs@outlook.com)
-* 🚀  I'm currently working on [Nothing... Hire Me!] 
+
 
 <br/>
 
