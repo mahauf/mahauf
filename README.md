@@ -12,7 +12,7 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 
-* 🧐  See my portfolio at [mahaul.site](https://mahauf.github.io/)
+* 🧐  See my portfolio at [mahauf.github.io](https://mahauf.github.io/)
 * ✉️  You can contact me at [maha.rs@outlook.com](mailto:maha.rs@outlook.com)
 
 
