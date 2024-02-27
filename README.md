@@ -13,7 +13,7 @@
 
 
 * 🧐  See my portfolio at [mahauf.github.io](https://mahauf.github.io/)
-* ✉️  You can contact me at [maha.uf@outlook.com](mailto:maha.uf@outlook.com)
+* ✉️  You can contact me at [maha_uf@outlook.com](mailto:maha_uf@outlook.com)
 
 
 <br/>
